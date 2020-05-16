@@ -1,6 +1,6 @@
 # Purpose
 
-This is a pair of scripts for creating a local Certificate of Authority to issue your own SSL certificates.
+This is a pair of scripts for creating a local Certificate Authority to issue your own SSL certificates.
 The only requirement is `openssl`.
 
 # Instructions
